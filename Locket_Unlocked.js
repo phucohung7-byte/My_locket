@@ -70,7 +70,7 @@ if (ua.includes("Locket")) {
         profile_badge_visible: "true",
         lunar_new_year_app_icon_enabled: "true",
         settings_instagram_url: "https://www.instagram.com/hungphu1.phu?xtok=cnlnbzNnZjZ0Nndw&utm_source=qr",
-        settings_tiktok_url: "https://tiktok.com/@hungphu1.phu.09"
+        settings_tiktok_url: "https://tiktok.com/@hungphu1.phu"
     });
 
     // ============================================================
